@@ -1,0 +1,162 @@
+[
+    {
+        "parcelID":"P1001",
+        "recipient":"John Tan",
+        "address":"12 Jurong West Ave 5",
+        "priority":"Express",
+        "status":"Out for Delivery",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1002",
+        "recipient":"Sarah Lim",
+        "address":"88 Tampines Street 41",
+        "priority":"Standard",
+        "status":"Sorting Facility",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1003",
+        "recipient":"David Koh",
+        "address":"25 Hougang Street 61",
+        "priority":"Express",
+        "status":"Sorting Facility",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1004",
+        "recipient":"Rachel Lee",
+        "address":"19 Yishun Ring Road",
+        "priority":"Standard",
+        "status":"Delivered",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1005",
+        "recipient":"Benjamin Ng",
+        "address":"7 Choa Chu Kang Ave 4",
+        "priority":"Express",
+        "status":"Out for Delivery",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1006",
+        "recipient":"Melissa Ong",
+        "address":"45 Bedok North Road",
+        "priority":"Standard",
+        "status":"Sorting Facility",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1007",
+        "recipient":"Jason Lim",
+        "address":"31 Bukit Batok Street 11",
+        "priority":"Express",
+        "status":"Sorting Facility",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1008",
+        "recipient":"Grace Tan",
+        "address":"102 Pasir Ris Drive 3",
+        "priority":"Standard",
+        "status":"Delivered",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1009",
+        "recipient":"Nicholas Chua",
+        "address":"15 Sengkang East Way",
+        "priority":"Express",
+        "status":"Out for Delivery",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1010",
+        "recipient":"Amanda Teo",
+        "address":"28 Punggol Central",
+        "priority":"Standard",
+        "status":"Sorting Facility",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1011",
+        "recipient":"Daniel Goh",
+        "address":"63 Ang Mo Kio Ave 8",
+        "priority":"Express",
+        "status":"Sorting Facility",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1012",
+        "recipient":"Jessica Wong",
+        "address":"90 Toa Payoh Lorong 2",
+        "priority":"Standard",
+        "status":"Delivered",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1013",
+        "recipient":"Ryan Tan",
+        "address":"14 Clementi Ave 2",
+        "priority":"Express",
+        "status":"Out for Delivery",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1014",
+        "recipient":"Samantha Koh",
+        "address":"51 Woodlands Drive 16",
+        "priority":"Standard",
+        "status":"Sorting Facility",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1015",
+        "recipient":"Ethan Lim",
+        "address":"72 Admiralty Drive",
+        "priority":"Express",
+        "status":"Delivered",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1016",
+        "recipient":"Olivia Chia",
+        "address":"6 Serangoon North Ave 5",
+        "priority":"Standard",
+        "status":"Out for Delivery",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1017",
+        "recipient":"Marcus Lee",
+        "address":"39 Bishan Street 13",
+        "priority":"Express",
+        "status":"Sorting Facility",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1018",
+        "recipient":"Cheryl Tan",
+        "address":"55 Marine Parade Road",
+        "priority":"Standard",
+        "status":"Delivered",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1019",
+        "recipient":"Aaron Ng",
+        "address":"83 Jurong East Street 24",
+        "priority":"Express",
+        "status":"Out for Delivery",
+        "updates":[]
+    },
+    {
+        "parcelID":"P1020",
+        "recipient":"Natalie Goh",
+        "address":"11 Queenstown Close",
+        "priority":"Standard",
+        "status":"Sorting Facility",
+        "updates":[]
+    }
+]
