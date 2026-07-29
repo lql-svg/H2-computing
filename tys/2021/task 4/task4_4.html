@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+<head> <title> Task 4.2 </title>
+
+<body>
+	<h1> Qualifiers </h1>
+	<table>
+		<tr> 
+		<th> Name </th>
+		<th> Total score </th> 
+		<th> Qualification </th> 
+		</tr>
+		{% for i in result %}
+		<tr> 
+		<td> {{ i[0] }} </td>
+		<td> {{ i[1] }} </td>
+		{% if i[2] == 1 %}
+			<td> Qualified </td> 
+		{% else %}
+			<td> Not Qualified </td>
+		{% endif %}
+		</tr>
+
+		{% endfor %}
+	</table>
+
+</body>
+</html>
