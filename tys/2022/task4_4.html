@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+<head> <title> Task 4.4 </title> </head>
+
+<body>
+	<h1> Books Not Yet Returned </h1>
+	
+	<table>
+	<tr>
+		<th> Family Name </th>
+		<th> Given Name </th>
+		<th> Book Title </th>
+	</tr>
+
+	{% for result in results %}
+	<tr>
+		<td> result[0] </td>
+		<td> result[1] </td>
+		<td> result[2] </td>
+	</tr>
+	{% endfor %}
+	
+	</table>
+</body>
+</html>
