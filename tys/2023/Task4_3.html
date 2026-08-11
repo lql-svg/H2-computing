@@ -1,0 +1,16 @@
+<DOCTYPE HTML>
+<html>
+<head> <title> Task 4.3 </title> </head>
+
+<body>
+<table border = "3">
+{% for row in range(9) %}
+	<tr>
+	{% for col in range(9) %}
+		<td> {{ box[row][col] }} </td>
+	{% endfor %}
+	</tr>
+{% endfor %}
+</table>
+</body>
+</html>
